@@ -1,5 +1,5 @@
 # Frontend Mentor - QR code component
-
+### [Check Live Preview](https://kbzcraft.github.io/my-codepen-qr/)
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
